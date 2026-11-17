@@ -1,0 +1,8 @@
+node_modules
+dist
+release
+server/data
+.env
+bizsim.env
+*.log
+.DS_Store

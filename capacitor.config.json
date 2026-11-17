@@ -1,0 +1,8 @@
+{
+  "appId": "app.bizsim",
+  "appName": "BIZSIM",
+  "webDir": "client/dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
